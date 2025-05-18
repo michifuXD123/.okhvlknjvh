@@ -629,3 +629,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [18May2025 20:00:56.201] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of crisrob (18)
 [18May2025 20:00:56.202] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to crisrob
 [18May2025 20:01:50.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mem
+[18May2025 20:02:32.112] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3079ms or 61 ticks
+[18May2025 20:03:54.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Stone Age]
+[18May2025 20:04:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Getting an Upgrade]
+[18May2025 20:04:04.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Stone Age]
+[18May2025 20:04:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Getting an Upgrade]
+[18May2025 20:07:49.281] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks
+[18May2025 20:08:25.140] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3037ms or 60 ticks
+[18May2025 20:08:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixelpro123]
+[18May2025 20:08:41.007] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3077ms or 61 ticks
+[18May2025 20:08:59.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob has made the advancement [Amateur Archaeologist]
+[18May2025 20:09:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 burned to death
+[18May2025 20:11:10.239] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3102ms or 62 ticks
+[18May2025 20:11:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Made crisrob no longer a server operator]
+[18May2025 20:12:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Applied effect Health Boost to davixelpro123]
+[18May2025 20:12:29.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Applied effect Instant Health to davixelpro123]
+[18May2025 20:12:42.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Monster Hunter]
+[18May2025 20:13:02.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was shot by Skeleton
