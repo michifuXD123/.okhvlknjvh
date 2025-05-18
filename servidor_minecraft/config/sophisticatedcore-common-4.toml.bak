@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:void_upgrade|true", "sophisticatedbackpacks:advanced_magnet_upgrade|true", "sophisticatedbackpacks:advanced_jukebox_upgrade|true"]
+
